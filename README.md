@@ -30,5 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gittjar&layout=compact)](https://github.com/gittjar/github-readme-stats)
 
+<p align="right">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gittjar&theme=onedark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+</p>
 
