@@ -1,5 +1,5 @@
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages</h3>
 <p align="left">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="55" height="55"/>
@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" height="55"/>
 </p>
 
-<h3 align="left">Backend / Tools:</h3>
+<h3 align="left">Backend | Tools</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-line-wordmark.svg" alt="Apache" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="55" height="55"/>
