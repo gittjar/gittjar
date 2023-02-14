@@ -1,6 +1,8 @@
 
 <h3 align="left">Languages:</h3>
-<p align="left"><img src="[https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)">
+<p align="left"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+
+
 
 
 
