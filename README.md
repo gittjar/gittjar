@@ -26,10 +26,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="55" height="55"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original-wordmark.svg" alt="NuGet" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original-wordmark.svg" alt="Sourcetree" width="55" height="55"/>
-
 </p>
 
-<h3 align="left">OS:</h3>
 
 
 
