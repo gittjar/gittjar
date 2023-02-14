@@ -1,5 +1,4 @@
-[![MasterHead](https://avatars.githubusercontent.com/u/112698736?s=400&u=aa02eeb09d47fc35e4971a28a848baf4af860efa&v=4)](https://github.com/gittjar)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gittjar)](https://github.com/gittjar/github-readme-stats)
 
 <!--
 **gittjar/gittjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
