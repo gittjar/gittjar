@@ -10,6 +10,11 @@
 </p>
 
 <h3 align="left">Backend / Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="Dotnet" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="Dotnet Core" width="45" height="45"/>
+
+</p>
 
 <h3 align="left">OS:</h3>
 
