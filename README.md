@@ -32,5 +32,5 @@
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gittjar&layout=compact&theme=nord)](https://github.com/gittjar/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gittjar&theme=nord&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) |
 | --------- | --------- |
 
-![](https://komarev.com/ghpvc/?username=gittjar&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=gittjar&label=PROFILE+VIEWS&color=c202a8)
 
