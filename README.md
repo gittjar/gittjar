@@ -32,6 +32,8 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/gittjar/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/gittjar/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MS SQL Server" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-original.svg" alt="Github Actions" width="55" height="55"/>
+
 </p>
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gittjar&layout=compact&theme=nord)](https://github.com/gittjar/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gittjar&theme=nord&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) |
